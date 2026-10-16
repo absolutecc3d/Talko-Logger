@@ -1,0 +1,6 @@
+
+node_modules/
+talkomatic-token.json
+message-logs.json
+message-logs.json.tmp
+.env
